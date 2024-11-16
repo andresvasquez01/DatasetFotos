@@ -42,5 +42,5 @@ El dataset puede ser utilizado para los siguientes fines:
 
 
 
-##Licencia
+# Licencia
 Este conjunto de datos está disponible para uso no comercial y personal. No se permite la redistribución o uso comercial sin el permiso explícito del creador del conjunto de datos.
