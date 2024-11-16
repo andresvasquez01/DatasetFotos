@@ -1,4 +1,4 @@
-Dataset de Imágenes Modificadas - 180x180
+# Dataset de Imágenes Modificadas - 180x180
 Descripción
 Este conjunto de datos contiene imágenes que han sido procesadas y modificadas para tener un tamaño uniforme de 180x180 píxeles. Las imágenes han sido renombradas secuencialmente de acuerdo a su orden en la carpeta, con nombres en el formato filtro1.jpg, filtro2.jpg, ..., filtroN.jpg, donde N es el número total de imágenes en el conjunto de datos.
 
